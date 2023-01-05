@@ -159,9 +159,8 @@ class LinkedList:
         prev.next = temp.next
  
         temp = None
-     
-     def deletekthoccurence(self,key,k):
-        
+
+
 
      
 
