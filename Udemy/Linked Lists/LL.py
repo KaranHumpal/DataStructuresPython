@@ -160,6 +160,10 @@ class LinkedList:
  
         temp = None
      
+     def deletekthoccurence(self,key,k):
+        
+
+     
 
         
 
